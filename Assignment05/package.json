@@ -2,7 +2,7 @@
   "name": "assignment05",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://munifaahmed.github.io/todo-list",
+  "homepage": "https://munifaahmed.github.io/todo-list",
   "dependencies": {
     "ajv": "^6.5.5",
     "react": "^16.5.2",
