@@ -1,13 +1,13 @@
 {
-  "main.css": "/todo-list/static/css/main.b4a9ee85.chunk.css",
-  "main.js": "/todo-list/static/js/main.39109dee.chunk.js",
-  "main.js.map": "/todo-list/static/js/main.39109dee.chunk.js.map",
-  "static/js/1.4fd91c74.chunk.js": "/todo-list/static/js/1.4fd91c74.chunk.js",
-  "static/js/1.4fd91c74.chunk.js.map": "/todo-list/static/js/1.4fd91c74.chunk.js.map",
-  "runtime~main.js": "/todo-list/static/js/runtime~main.6f47f260.js",
-  "runtime~main.js.map": "/todo-list/static/js/runtime~main.6f47f260.js.map",
-  "static/css/main.b4a9ee85.chunk.css.map": "/todo-list/static/css/main.b4a9ee85.chunk.css.map",
-  "index.html": "/todo-list/index.html",
-  "precache-manifest.78b4af17ec65a493e1ffe6c9098f9ee7.js": "/todo-list/precache-manifest.78b4af17ec65a493e1ffe6c9098f9ee7.js",
-  "service-worker.js": "/todo-list/service-worker.js"
+  "main.css": "/munifaahmed/static/css/main.b4a9ee85.chunk.css",
+  "main.js": "/munifaahmed/static/js/main.59b57617.chunk.js",
+  "main.js.map": "/munifaahmed/static/js/main.59b57617.chunk.js.map",
+  "static/js/1.4fd91c74.chunk.js": "/munifaahmed/static/js/1.4fd91c74.chunk.js",
+  "static/js/1.4fd91c74.chunk.js.map": "/munifaahmed/static/js/1.4fd91c74.chunk.js.map",
+  "runtime~main.js": "/munifaahmed/static/js/runtime~main.614ecd8f.js",
+  "runtime~main.js.map": "/munifaahmed/static/js/runtime~main.614ecd8f.js.map",
+  "static/css/main.b4a9ee85.chunk.css.map": "/munifaahmed/static/css/main.b4a9ee85.chunk.css.map",
+  "index.html": "/munifaahmed/index.html",
+  "precache-manifest.8f0bf090e468057d633e73eeeb6d66bf.js": "/munifaahmed/precache-manifest.8f0bf090e468057d633e73eeeb6d66bf.js",
+  "service-worker.js": "/munifaahmed/service-worker.js"
 }
